@@ -17,6 +17,6 @@
         "patterns",
         "languages"
     ],
-    "license": "LGPL",
+    "license": "LGPL-2.1-or-later",
     "homepage": "https://github.com/fluid-project/hyphenation-patterns#readme"
 }
